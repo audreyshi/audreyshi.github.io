@@ -1,7 +1,7 @@
 title:            Audrey's Portfolio
 description:      A jekyll theme. Because I scribble.
 url:              # Site url.
-signoff:          audrey
+signoff:          Audrey
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
@@ -9,9 +9,12 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          http://audreyshi.github.io
-    external:     true
+  - name:         Projects
+    url:          /projects
+  - name:         Travel
+    url:          /travel
+  - name:         Favorites
+    url:          /favorites
   - name:         Email
     url:          mailto:as4514@columbia.edu
     external:     true

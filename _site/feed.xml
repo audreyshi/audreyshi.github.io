@@ -1,20 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scribble</title>
+    <title>Audrey's Portfolio</title>
     <description>A jekyll theme. Because I scribble.</description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Scribble, a Jekyll theme</title>
-        <description>&lt;p&gt;I have other themes, checkout (mainly) &lt;a href=&quot;https://github.com/muan/muan.github.com/releases&quot;&gt;this repository&lt;/a&gt; and &lt;a href=&quot;https://github.com/muan/jekyll-wardrobe&quot;&gt;this repository&lt;/a&gt;. &amp;lt;3&lt;/p&gt;
+        <title>To-do list</title>
+        <description>&lt;p&gt;Hi there! This is my &lt;strong&gt;to-do list&lt;/strong&gt; for this website. &amp;lt;3&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; Make the title into a link to the home page&lt;/li&gt;
+&lt;li&gt; Edit the placeholder posts&lt;/li&gt;
+&lt;li&gt; Include icons for my GitHub, LinkedIn, and Email (possibly also Goodreads)&lt;/li&gt;
+&lt;li&gt; Include links to About, Projects, Archive, Travel, and Favorites&lt;/li&gt;
+&lt;li&gt; Set up Disqus&lt;/li&gt;
+&lt;li&gt; Update user picture to have a dark background&lt;/li&gt;
+&lt;li&gt; Learn how to use Bootstrap, Inskape&lt;/li&gt;
+&lt;li&gt; REGISTER A DOMAIN NAME&lt;/li&gt;
+&lt;li&gt; Make it so that links color when hovered over&lt;/li&gt;
+&lt;li&gt;Make user photo larger, make title larger&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr&gt;
 
+&lt;p&gt;I&amp;rsquo;m using the &amp;lsquo;Scribble&amp;rsquo; theme by Mu-An Chiou:&lt;/p&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;There is no clever design philosophy to talk about, I tried to find something to work with, and &amp;lsquo;scribble&amp;rsquo; came to my mind. This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS &amp;amp; CoffeeScript, though .scss &amp;amp; .coffee files wouldn&amp;rsquo;t be included in the theme. &lt;/p&gt;
 
-&lt;p&gt;The theme is mobile optimised but I did not check browser compatibility. It looks great in Chrome, Safari and Firefox though.&lt;/p&gt;
+&lt;p&gt;The theme is mobile optimised but I did not check browser compatibility.It looks great in Chrome, Safari and Firefox though.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; target=&quot;_blank&quot; class=&quot;big-button gray&quot;&gt;Get it on GitHub &amp;hearts;&lt;/a&gt;&lt;/p&gt;
 
@@ -61,18 +78,11 @@ Date is not a required header since Jekyll reads the file name for date, this wa
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; target=&quot;_blank&quot; class=&quot;big-button gray&quot;&gt;Get it on GitHub &amp;hearts;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3&gt;The end&lt;/h3&gt;
-
-&lt;p&gt;Like it? &lt;a href=&quot;http://twitter.com/muanchiou&quot;&gt;Tell me&lt;/a&gt;.&lt;br/&gt;
-Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://audreyshi.github.io&quot; target=&quot;_blank&quot; class=&quot;big-button gray&quot;&gt;Back to Home Page &amp;hearts;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 May 2013 16:27:31 +0000</pubDate>
-        <link>/2013/05/06/scribble-the-jekyll-theme/</link>
-        <guid isPermaLink="true">/2013/05/06/scribble-the-jekyll-theme/</guid>
+        <pubDate>Sat, 16 Aug 2014 03:56:00 +0000</pubDate>
+        <link>/2014/08/16/to-do/</link>
+        <guid isPermaLink="true">/2014/08/16/to-do/</guid>
       </item>
     
       <item>
