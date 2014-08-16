@@ -9,12 +9,8 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         Projects
-    url:          /projects
-  - name:         Travel
-    url:          /travel
-  - name:         Favorites
-    url:          /favorites
+  - name:         Resume
+    url:          /resume
   - name:         Email
     url:          mailto:as4514@columbia.edu
     external:     true
