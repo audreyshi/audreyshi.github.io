@@ -7,7 +7,7 @@ disqus: y
 
 Thanks to [this post](https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a), I finally linked my github page to this custom domain!
 
-Other than that, here's a list of some things I've been up to:
+Other than that, here are some things I've been up to:
 > - **Origami**: Origami make really cute gifts! Recently, I made this [armadillo](http://www.origami-resource-center.com/images/dollarArmadillo.jpg) for a friend -- I also tried to make a [camera](http://www.origami-guide.com/origami-money-camera.html), but it didn't turn out so great (I'll try again later!).
 
 > - I've been working on a **bioinformatics research project** lately which has been super exciting! This involved a lot of learning about [genome wide association studies (GWAS)](http://www.genome.gov/20019523). Gnenome wide association studies are used to survey the associations between SNPs (single nucleotide polymorphisms) and disease incidence, allowing researchers to interrogate genetic links to disease. GWASs are complicated by the large presence of roughly [10 million SNPs](http://ghr.nlm.nih.gov/handbook/genomicresearch/snp) in the human genome, meaning it is difficult to create a study with enough statistical power to identify significant SNPs. There are also lots of cool machine learning applications in bioinformatics (e.g. natural language processing).
