@@ -13,7 +13,7 @@ Bringing up Mindy, however, was not meant to be a segway into a blog about the b
 
 Some favorites:
 
-1. This [Youtube video](https://www.youtube.com/watch?v=hPbrlNsMTg4) about Starbucks misspellings. This is particularly applicable to me because no one ever gets my name right (plus whenever I happen upon a shop with those customized name keychains, my name is NEVER on a keychain. This means that whenever my name _does_ appear on a keychain, I get super excited about a keychain, which is silly). In the past summer, I have gotten the following written on my Starbucks cups: "Andrese" "Adu" "Odrie" "Audrn" and "Jan.""
+1. This [Youtube video](https://www.youtube.com/watch?v=hPbrlNsMTg4) about Starbucks misspellings. This is particularly applicable to me because no one ever gets my name right (plus whenever I happen upon a shop with those customized name keychains, my name is NEVER on a keychain. This means that whenever my name _does_ appear on a keychain, I get super excited about a keychain, which is silly). In the past summer, I've gotten the following written on my Starbucks cups: "Andrese" "Adu" "Odrie" "Audrn" and "Jan.""
 
 2. I'm not a huge anime fan, but I do like [Neon Genesis Evangelion](https://www.youtube.com/watch?v=3nQNSLB3Lpk) a lot.
 
