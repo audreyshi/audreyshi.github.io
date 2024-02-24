@@ -1,6 +1,6 @@
 title:            Audrey's Portfolio
 description:      A jekyll theme. Because I scribble.
-url:              # Site url.
+url:              audreyshi.com
 signoff:          Audrey
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -12,7 +12,7 @@ links:
   - name:         Resume
     url:          /resume
   - name:         Email
-    url:          mailto:as4514@columbia.edu
+    url:          mailto:awyshi@gmail.com
     external:     true
   - name:         GitHub
     url:          http://github.com/audreyshi
