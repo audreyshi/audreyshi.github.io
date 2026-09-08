@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Audrey Shi's Website
+title: Audrey Shi
 
 # Your name to show in the footer
 author: Audrey Shi
@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Learn Markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
