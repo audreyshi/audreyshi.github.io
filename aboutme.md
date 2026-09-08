@@ -9,5 +9,3 @@ My name is Audrey Shi. I reside in Denver, Colorado, and am in the process of sw
 - My dachshund, Rosie
 
 ### My Story
-
-N/A
