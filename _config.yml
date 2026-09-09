@@ -139,7 +139,8 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 # text-col: "#404040" # gray
 text-col: "#4D4D4D"
-link-col: "#008AFF"
+# link-col: "#008AFF"
+link-col: "#7D5268"
 # hover-col: "#0085A1" # slate blue
 hover-col: "#D188AD"
 # navbar-col: "#EAEAEA" # light gray
